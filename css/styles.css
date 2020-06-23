@@ -1,0 +1,52 @@
+#header-nav{
+	background-color: grey;
+	border-color: black;
+	border-style: solid;
+	font-family: "Comic Sans MS"
+
+
+}
+
+#heading{
+
+	text-align: center;
+
+}
+
+#Foodheading{
+	padding-left: 25px;
+}
+
+
+
+
+#con2{
+
+	padding: 10px;
+	background-color: grey;
+	
+	
+}
+
+#con3{
+
+	background-color: grey;
+
+	
+}
+
+#con5{
+
+	padding: 10px;
+
+	
+}
+
+#list1{
+	text-align: center;
+
+	background-color: white;
+
+	border-style: solid;
+
+}
